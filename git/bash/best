@@ -1,1 +1,2 @@
-echo "This School is cool!"
+#!/bin/bash
+echo "Best"
